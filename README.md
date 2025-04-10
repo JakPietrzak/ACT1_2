@@ -2,7 +2,7 @@
 
 ## uruchomienie
 '''
-cd nazwa-repo
+cd ACT1_2
 pip install -r req.txt
 python app.py
 
